@@ -22,9 +22,8 @@ Install the cloned app's dependencies.
 
 Finally, to run the application run 
 ```bash
-   (env) $ pip install -r requirements.txt
-   ```
    flask run -p 5001
+   ```
 
 This should take you to the home page where you can sign in using WorkOS.
 Additionally, in the top right there is a button with the words "Directory Users" that you can click to see a list of users in the Directory.  
