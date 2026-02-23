@@ -30,4 +30,4 @@ Additionally, in the top right there is a button with the words "Directory Users
 
 ## Screen Recording
 
-![Download or open the screen recording][./recording.mov]
+![Download or open the screen recording](./recording.mov)
